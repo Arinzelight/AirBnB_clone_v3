@@ -2,7 +2,7 @@
 
 This version of the project focuses on building a RESTful API for the AirBnB clone using Flask.
 
-![Project Logo](../AirBnB_clone_v3/web_static/images/web-architect.png)
+![Project Logo](./web_static/images/web-architect.png)
 
 ## Table of Content
 
