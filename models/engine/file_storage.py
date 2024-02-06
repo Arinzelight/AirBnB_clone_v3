@@ -77,4 +77,3 @@ class FileStorage:
         else:
             return None
 
-
